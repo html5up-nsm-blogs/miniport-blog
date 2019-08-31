@@ -1,0 +1,12 @@
+<!-- Nav -->
+	<noselect>
+		<nav id="nav">
+			<ul class="container">
+				<li><a href="@pathto(index)">Home</a></li>
+				<li><a href="@pathto(index)#work">Work</a></li>
+				<li><a href="@pathto(index)#portfolio">Portfolio</a></li>
+				<li><a href="@pathto(blog)">Blog</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</nav>
+	</noselect>

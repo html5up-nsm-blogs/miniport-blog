@@ -1,0 +1,31 @@
+<!-- Blog -->
+	<article id="top" class="wrapper style1">
+		<div class="container">
+			<center><h3>Blog Posts</h3></center>
+
+			<center>
+				<table id="posts_table">
+					<thead>
+						<tr>
+							<th>Date</th>
+							<th>Post Title</th>
+						</tr>
+					</thead>
+					<tr>
+						<td>14-04-2019</td>
+						<td><a href="@pathto(blog/post02)">post two</a> - a project I recently finished</td>
+					</tr>
+					<tr>
+						<td>06-03-2019</td>
+						<td><a href="@pathto(blog/post01)">post one</a> - my first blog post</td>
+					</tr>
+					<tfoot>
+						<tr>
+							<th>Date</th>
+							<th>Post Title</th>
+						</tr>
+					</tfoot>
+				</table>
+			</center>
+		</div>
+	</article>

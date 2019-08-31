@@ -1,0 +1,13 @@
+<center><h2>Post One: my first blog post</h2></center>
+
+<textarea class="markdown">
+	Markdown goes here.
+
+	**This** is how to bold text. *This* is how to do italic text. ~~This~~ is how to do strikethrough text.
+
+	[This](https://nift.cc) is how to do a link.
+
+	### This is a heading
+
+	You will have to fiddle with the css files to get a nice subheading.
+</textarea>
