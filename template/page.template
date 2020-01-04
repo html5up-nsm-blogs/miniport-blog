@@ -11,7 +11,7 @@
 	<body class="is-preload" onload="setup()">
 		@input(template/menu.content)
 
-		@inputcontent
+		@content()
 
 		@input(template/contact.content)
 
